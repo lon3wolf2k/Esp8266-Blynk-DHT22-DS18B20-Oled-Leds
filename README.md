@@ -1,2 +1,9 @@
 # Esp8266-Blynk-DHT22-DS18B20-Oled-Leds
-Esp8266 with DHT22 / AM2302 Digital Temperature and Humidity Sensor and DS18B20 waterproof temperature sensor displaying data to 0.96 inch oled and upload to Blynk
+<p>Esp8266/Nodemcu sketch to check the Temperature and Humidity from a DHT22 sensor and also the temperature from DS18B20 display them on an .96" Oled  screen, upload them on Blynk service and switch on or off the two green and red leds. Works with DHT11 also.</p>
+<p><strong>Short Description:</strong></p>
+<p>Booting with the green led on, if the temperature goes above 26c then the red led lights on and the green goes off
+</p>
+<p> <strong>Instructions: </strong></p>
+<img src="./pinout.png">
+<img src="./blynk.jpg">
+<img src="./plaketa.jpg">
